@@ -1,8 +1,8 @@
 # FoodSpy
 
-FoodSpy is an app where users can share and confirm local food prices. 
+FoodSpy is a final group project as part of the Dev Academy Web Development Bootcamp.
 
-The price of essential food items can vary from store to store. With the cost of living rising, saving a few dollars on food items can go a long way. 
+It is a website where users can share and confirm local food prices.   
 
 User stories:
 
